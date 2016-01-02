@@ -1,3 +1,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:shardsrocks/sharock-frontend.git
+[submodule "api-server"]
+	path = api-server
+	url = git@github.com:shardsrocks/sharock-api-server.git
