@@ -7,3 +7,6 @@
 [submodule "resolve-worker"]
 	path = resolve-worker
 	url = git@github.com:shardsrocks/sharock-resolve-worker.git
+[submodule "worker"]
+	path = worker
+	url = git@github.com:shardsrocks/sharock-worker.git
