@@ -2,7 +2,7 @@
 	path = frontend
 	url = git@github.com:shardsrocks/sharock-frontend.git
 [submodule "api-server"]
-	path = api-server
+	path = server
 	url = git@github.com:shardsrocks/sharock-api-server.git
 [submodule "resolve-worker"]
 	path = resolve-worker
